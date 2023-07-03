@@ -16,3 +16,7 @@ Future Data analyst and Full-Stack Dev
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jeremi-code&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremi-code&hide=TeX&layout=compact)
+
+
