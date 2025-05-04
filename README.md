@@ -3,7 +3,7 @@ Future Data analyst and Full-Stack Dev
 
 - 🔭 I’m currently working on a Telegram bot called Enqoqlesh
 - 🌱 I’m currently learning Software Engineering at Bahir Dar University
-- 💬 Ask me about Next JS, Node JS, and Machine Learning 
+- 💬 Ask me about Nuxt JS, Node JS, and Hasura 
 - 📫 How to reach me: ermiassintayehu13@gmail.com
 
 ## Connect with me :[![Linkedin Badge](https://img.shields.io/badge/-JeremiahSD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ermias-sintayehu-03955224b/)
